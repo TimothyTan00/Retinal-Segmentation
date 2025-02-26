@@ -1,7 +1,7 @@
 # Automated Retinal Layer Segmentation for Disease Diagnosis
 
 ## Overview
-This project focuses on developing an automated segmentation algorithm for retinal OCT (Optical Coherence Tomography) images. By refining boundary detection methods and integrating segmentation outputs with deep learning models, we aim to improve the precision of classifying retinal diseases such as Age-Related Macular Degeneration (AMD), Choroidal Neovascularization (CNV), Diabetic Macular Edema (DME), and Drusen.
+This project focuses on developing an automated segmentation algorithm for retinal OCT (Optical Coherence Tomography) images. By refining boundary detection methods and integrating segmentation outputs with deep learning models, we aim to improve the precision of classifying retinal diseases such as Age-Related Macular Degeneration (AMD), Choroidal Neovascularization (CNV), Diabetic Macular Edema (DME), Central Serous Retinopathy (CSR), Macular Hole (MH), Diabetic Retinopathy (DR), Diabetic Macular Edema (DME), and Drusen.
 
 ## Key Features
 * **Automated Retinal Layer Segmentation**: Uses advanced image processing techniques to delineate key retinal boundaries.
