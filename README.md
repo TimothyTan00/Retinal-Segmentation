@@ -9,6 +9,9 @@ This project focuses on developing an automated segmentation algorithm for retin
 * **Deep Learning Integration**: Enhances pre-trained models by providing high-accuracy segmentation masks for disease classification.
 * **Scalable & Generalizable**: Designed to work with multiple retinal disease datasets for broader diagnostic applications.
 
+! [Retinal Segmentation Example]
+(https://github.com/TimothyTan00/Retinal-Segmentation/blob/main/NEW%20FINAL%20IMAGE%20202.png?raw=true)
+
 ## 🛠 Methodology
 1. **Preprocessing**: Image normalization, denoising, and gradient-based transformations.
 2. **Layer Segmentation**: Detects and delineates key retinal boundaries using peak detection and path optimization.
