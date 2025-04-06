@@ -5,11 +5,11 @@ This project focuses on developing an automated segmentation algorithm for retin
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://github.com/TimothyTan00/Retinal-Segmentation/blob/main/NORMAL-202734-1%20copy.jpeg?raw=true" alt="Original Image" width="400"/><br/>
       <strong>Original Image</strong>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://github.com/TimothyTan00/Retinal-Segmentation/blob/main/NEW%20FINAL%20IMAGE%20202.png?raw=true" alt="Segmented Image" width="530"/><br/>
       <strong>Segmented Image</strong>
     </td>
